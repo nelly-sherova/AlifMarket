@@ -8,3 +8,16 @@
 /Users/azizjon/Projects/lesson3/obj/Debug/netcoreapp3.1/lesson3.AssemblyInfo.cs
 /Users/azizjon/Projects/lesson3/obj/Debug/netcoreapp3.1/lesson3.dll
 /Users/azizjon/Projects/lesson3/obj/Debug/netcoreapp3.1/lesson3.pdb
+C:\Users\ASUS\Desktop\Задачи\Clone\alifAcademyMiniMarket\bin\Debug\netcoreapp3.1\lesson3.exe
+C:\Users\ASUS\Desktop\Задачи\Clone\alifAcademyMiniMarket\bin\Debug\netcoreapp3.1\lesson3.deps.json
+C:\Users\ASUS\Desktop\Задачи\Clone\alifAcademyMiniMarket\bin\Debug\netcoreapp3.1\lesson3.runtimeconfig.json
+C:\Users\ASUS\Desktop\Задачи\Clone\alifAcademyMiniMarket\bin\Debug\netcoreapp3.1\lesson3.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\Задачи\Clone\alifAcademyMiniMarket\bin\Debug\netcoreapp3.1\lesson3.dll
+C:\Users\ASUS\Desktop\Задачи\Clone\alifAcademyMiniMarket\bin\Debug\netcoreapp3.1\lesson3.pdb
+C:\Users\ASUS\Desktop\Задачи\Clone\alifAcademyMiniMarket\obj\Debug\netcoreapp3.1\lesson3.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\Задачи\Clone\alifAcademyMiniMarket\obj\Debug\netcoreapp3.1\lesson3.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Задачи\Clone\alifAcademyMiniMarket\obj\Debug\netcoreapp3.1\lesson3.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Задачи\Clone\alifAcademyMiniMarket\obj\Debug\netcoreapp3.1\lesson3.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Задачи\Clone\alifAcademyMiniMarket\obj\Debug\netcoreapp3.1\lesson3.dll
+C:\Users\ASUS\Desktop\Задачи\Clone\alifAcademyMiniMarket\obj\Debug\netcoreapp3.1\lesson3.pdb
+C:\Users\ASUS\Desktop\Задачи\Clone\alifAcademyMiniMarket\obj\Debug\netcoreapp3.1\lesson3.genruntimeconfig.cache

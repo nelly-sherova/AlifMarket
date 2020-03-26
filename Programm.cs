@@ -51,6 +51,74 @@ namespace lesson3
                         else goto End;
                     }
                     break;
+                    case 2:
+                    {
+                        if (userBalance - 7 >= 0)
+                        {
+                            basket += "Сникерс,";
+                            userBalance -= 7;
+                        }
+                        else
+                        {
+                            System.Console.WriteLine(erroBalanceMessage);
+                            goto End;
+                        }
+                        System.Console.Write("Вы хотите продолжить? д/н:");
+                        if (Console.ReadLine().ToLower() == "д") goto start;
+                        else goto End;
+                    }
+                    break;
+                    case 3:
+                    {
+                        if (userBalance - 9 >= 0)
+                        {
+                            basket += "Марс,";
+                            userBalance -= 9;
+                        }
+                        else
+                        {
+                            System.Console.WriteLine(erroBalanceMessage);
+                            goto End;
+                        }
+                        System.Console.Write("Вы хотите продолжить? д/н:");
+                        if (Console.ReadLine().ToLower() == "д") goto start;
+                        else goto End;
+                    }
+                    break;
+                    case 4:
+                    {
+                        if (userBalance - 4 >= 0)
+                        {
+                            basket += "M&Ms,";
+                            userBalance -= 4;
+                        }
+                        else
+                        {
+                            System.Console.WriteLine(erroBalanceMessage);
+                            goto End;
+                        }
+                        System.Console.Write("Вы хотите продолжить? д/н:");
+                        if (Console.ReadLine().ToLower() == "д") goto start;
+                        else goto End;
+                    }
+                    break;
+                    case 5:
+                    {
+                        if (userBalance - 14 >= 0)
+                        {
+                            basket += "Чипсы,";
+                            userBalance -= 14;
+                        }
+                        else
+                        {
+                            System.Console.WriteLine(erroBalanceMessage);
+                            goto End;
+                        }
+                        System.Console.Write("Вы хотите продолжить? д/н:");
+                        if (Console.ReadLine().ToLower() == "д") goto start;
+                        else goto End;
+                    }
+                    break;
                 case 6: goto End;
                 default: goto start;
                 break;
